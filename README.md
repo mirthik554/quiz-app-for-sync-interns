@@ -1,2 +1,2 @@
-# quiz-app-for-sync-interns
-quiz app for variety categories
+# QuizApp
+creation of quiz app using html, css &amp; javascript.
